@@ -1,3 +1,5 @@
-<p align="center"><b>Storage</b></p>
-<p align="center">--------</p>
-<p align="center">Personal Storage for things that I need to host.</p>
+<p align="center">
+  <b>Storage</b><br>
+  --------<br>
+  Personal Storage for things that I need to host.
+</p>
